@@ -3,7 +3,7 @@
 Write a app that use the data api and shows a list of people filtered by the search input with the data below.
 People result will be filtered by name or country.
 
-* User must insert 3 characters to search
+**User must insert 3 characters to search**
 
 - Full name
 - Age
