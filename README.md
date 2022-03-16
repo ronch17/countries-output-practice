@@ -5,9 +5,9 @@ People result will be filtered by name or country.
 
 * User must insert 3 characters to search
 
--Full name
--Age
--Country Full Name
+- Full name
+- Age
+- Country Full Name
 
 ## Api Usage
 
